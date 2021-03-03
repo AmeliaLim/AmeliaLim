@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Amelia</h1>
 <h3 align="center">A Digital Marketer | Working at an early Fintech start up @youfoundflank|</h3>
 
-- 🔭 I’m currently working on [flank](https://github.com/flank-team/Flank-front-end)
+<p align="center">- 🔭 I’m currently working on [flank](https://github.com/flank-team/Flank-front-end)</p>
 
-- 🌱 I’m currently learning **Web development & Japanese**
+<p align="center">- 🌱 I’m currently learning **Web development & Japanese**</P>
 
-- 📫 How to reach me **limamelia.yx@gmail.com**
+<p align="center">- 📫 How to reach me **limamelia.yx@gmail.com**</p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
