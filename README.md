@@ -1,9 +1,9 @@
 <h1 align="center">Guten Tag 👋, I'm Amelia</h1>
 <h3 align="center">A Digital Marketer | Working at an early Fintech start up @youfoundflank</h3>
 
-<p align="center"> 🔭 I’m currently working on [flank] (https://github.com/flank-team/Flank-front-end) </p>
+<p align="center"> 🔭 Currently working on [flank](https://github.com/flank-team/Flank-front-end) </p>
 
-<p align="center"> 🌱 I’m currently learning **Web development & Japanese**</P>
+<p align="center"> 🌱 Currently learning **Web development & Japanese**</P>
 
 <p align="center"> 📫 How to reach me **limamelia.yx@gmail.com**</p>
 
