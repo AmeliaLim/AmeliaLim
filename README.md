@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Amelia</h1>
 <h3 align="center">A Digital Marketer | Working at an early Fintech start up @youfoundflank|</h3>
 
-<p align="center">- 🔭 I’m currently working on [flank](https://github.com/flank-team/Flank-front-end)</p>
+<p align="center">- 🔭 I’m currently working on [flank](https://github.com/flank-team/Flank-front-end) </p>
 
 <p align="center">- 🌱 I’m currently learning **Web development & Japanese**</P>
 
