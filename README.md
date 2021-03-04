@@ -3,8 +3,7 @@
 
 <p align="center"> 🔭 Currently working on [flank](https://github.com/flank-team/Flank-front-end)
 </p>
-
-<p align="center"> 🌱 Currently learning **Web development & Japanese**</P>
+<p align="center"> 🌱 Currently learning **Web development, UX/UI Design & Japanese**</P>
 
 <p align="center"> 📫 How to reach me **limamelia.yx@gmail.com**</p>
 
